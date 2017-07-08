@@ -1,0 +1,4 @@
+Get Apache server running and make sure MongoDB is installed.
+Download the database file from the location :
+
+Run the index.html file inside templates via localhost.
